@@ -5,7 +5,7 @@
 Taberna server is the package of Taberna Modpack compiled in server file ready to start them.
 He can be use to create your own server private or public with the Taberna Launcher
 
-### Requirement 
+## Requirement 
 
 - The server required `3Go` of Ram
 - Java `8` or Newer
@@ -13,22 +13,22 @@ He can be use to create your own server private or public with the Taberna Launc
 
 
 
-### Installation
+## Installation
 
 Download the [repo](https://github.com/yoannbt2001/Taberna-ModPack/archive/Taberna-5-Server.zip) to start the server.
 
 
 
-### Usage
+## Usage
 
 
-##### On Windows
+#### On Windows
 
 - Unzip your file
 - start run.bat
 
 
-##### On Linux
+#### On Linux
 
 - In `Root` write in your bash :
 
@@ -74,12 +74,12 @@ screen /home/minecraft/run.sh
 
 
 
-### Contributing
+## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
 
 
-### License
+## License
 [MIT](https://choosealicense.com/licenses/mit/)
