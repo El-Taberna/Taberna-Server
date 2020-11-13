@@ -3,6 +3,7 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/5c4a9e46064942f68a68574aa98d56fa)](https://app.codacy.com/gh/El-Taberna/Taberna-Server?utm_source=github.com&utm_medium=referral&utm_content=El-Taberna/Taberna-Server&utm_campaign=Badge_Grade_Settings)
 
 Taberna server is the package of Taberna Modpack compiled in server file ready to start them.
+He can be use to create your own server private or public with the Taberna Launcher
 
 ### Requirement 
 
