@@ -7,9 +7,9 @@ He can be use to create your own server private or public with the Taberna Launc
 
 ## Requirement 
 
-  - The server required `3Go` of Ram
-  - Java `8` or Newer
-  - The last update of the server package
+-   The server required `3Go` of Ram
+-   Java `8` or Newer
+-   The last update of the server package
 
 ## Installation
 
