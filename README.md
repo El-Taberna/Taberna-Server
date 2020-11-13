@@ -11,13 +11,9 @@ He can be use to create your own server private or public with the Taberna Launc
   - Java `8` or Newer
   - The last update of the server package
 
-
-
 ## Installation
 
 Download the [repo](https://github.com/yoannbt2001/Taberna-ModPack/archive/Taberna-5-Server.zip) to start the server.
-
-
 
 ## Usage
 
@@ -26,7 +22,6 @@ Download the [repo](https://github.com/yoannbt2001/Taberna-ModPack/archive/Taber
 
   - Unzip your file
   - start run.bat
-
 
 #### On Linux
 
@@ -72,14 +67,10 @@ chmod +x /home/minecraft/run.sh
 screen /home/minecraft/run.sh
 ```
 
-
-
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
-
-
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
