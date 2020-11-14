@@ -45,8 +45,6 @@ su minecraft
 ```
 
 -   Upload last update of server files in `/home/minecraft/`
-
-
 -   Create `Run.sh` and paste this inside `/home/minecraft/`
 
 ```bash
