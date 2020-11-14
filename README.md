@@ -13,7 +13,7 @@ He can be use to create your own private or public server with the Taberna Launc
 
 ## Installation
 
-Download the [repo](https://github.com/yoannbt2001/Taberna-ModPack/archive/Taberna-5-Server.zip) to start the server.
+Download the [repo](https://github.com/El-Taberna/Taberna-Server/archive/master.zip) to start the server.
 
 ## Usage
 
