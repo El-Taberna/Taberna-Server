@@ -17,13 +17,12 @@ Download the [repo](https://github.com/yoannbt2001/Taberna-ModPack/archive/Taber
 
 ## Usage
 
-
-#### On Windows
+### On Windows
 
 -   Unzip your file
 -   start run.bat
 
-#### On Linux
+### On Linux
 
 -   In `Root` write in your bash :
 
